@@ -1,5 +1,7 @@
+## Employee and visitor pass logging system exposed to directory traversal vulnerability
+
 ## Affected version: 
-Employee and visitor pass logging system exposed to directory traversal vulnerability - 1.0
+Employee and visitor pass logging system - 1.0
 
 ## Vendor:
 https://www.sourcecodester.com/users/tips23
